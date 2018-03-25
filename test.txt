@@ -1,0 +1,12 @@
+int ile;
+int ala;
+
+while(ile==ala){
+
+   if(ala!=0){
+	ile = 5
+   }
+   while(ile==ala){
+   }
+
+}//
